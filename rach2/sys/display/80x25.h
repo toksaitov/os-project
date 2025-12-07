@@ -1,0 +1,12 @@
+#ifndef _80x25_H_
+#define _80x25_H_
+
+#define SCREEN_NUMBER_OF_COLUMNS 80
+#define SCREEN_NUMBER_OF_ROWS    25
+
+#define DEFAULT_FORECOLOR 0x07
+#define DEFAULT_BACKCOLOR 0
+
+#define VIDEO_COLOR_TEXT_BUFFER 0xB8000
+
+#endif
